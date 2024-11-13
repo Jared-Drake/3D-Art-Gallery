@@ -1,3 +1,6 @@
+![3D Art Gallery Screenshot](./3D%20Art%20Gallery.PNG)
+
+
 # 3D-Art-Gallery
 A 3D rotating gallery built with Three.js, featuring interactive artwork images with titles and descriptions. Users can click arrows to navigate through the gallery, where each image rotates to the center position in front of the camera.
 
@@ -33,8 +36,4 @@ A 3D rotating gallery built with Three.js, featuring interactive artwork images 
 - View the Project:
 - Open a browser and go to http://localhost:8080 (or the port provided by your server).
 
-- <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="C:\Users\jared\OneDrive\Pictures\3D Art Gallery.PNG">
-</picture>
+
